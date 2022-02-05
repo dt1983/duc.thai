@@ -10,7 +10,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/dt1983/duc.thai/blob/main/Duc%20Thai%20-%20Profile%20Pic.JPG)
 
 <!-- Add your details -->
 

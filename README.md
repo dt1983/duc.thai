@@ -8,9 +8,9 @@
 
 I am __Duc Thai__, an aspiring data specialist looking to hone my machine learning and data analytic skills.
 
-In my previous career in as a valuations expert in investment banking I spent considerable time and effort sifting through vast volumes of transactions and financial data to perform analytics and gather insights, and have been working to use my passion for data and analytical mindset to take me to the next steps in my career.
+In my previous career in as a valuations expert in investment banking I spent considerable time and effort sifting through vast volumes of transactions and financial data to perform analytics and gather insights, and have been looking to use my passion for data and analytical mindset for other interests.
 
-I am utilising Github to share some of my passion projects and demonstrate some of the skills I have recently acquired.<br>
-Please feel free to browse - I would gladly welcome any feedback!
+I first started learning Python in H2 2021 and have since been looking for passion projects to put in practice some of these newly acquired skills.<br>
+I am utilising Github to share some of these projects - please feel free to browse! I would gladly welcome any feedback.
 
 For professional enquiries, please contact me via my email address or LinkedIn profile.

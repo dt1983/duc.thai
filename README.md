@@ -6,7 +6,7 @@
 
 ![alt text](https://github.com/dt1983/duc.thai/blob/main/Duc%20Thai%20-%20Profile%20Pic.JPG)
 
-I am __Duc Thai__, an aspiring data specialist looking to hone my machine learning and data analytic skills.
+I am __Duc Thai__, a passionate data analyst looking to hone my machine learning and data science skills.
 
 In my previous career in as a valuations expert in investment banking I spent considerable time and effort sifting through vast volumes of transactions and financial data to perform analytics and gather insights, and have been looking to use my passion for data and analytical mindset for other interests.
 
